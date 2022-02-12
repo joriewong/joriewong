@@ -26,7 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML         1 hr 13 mins    ████████████░░░░░░░░░░░░░   47.92 % 
+TypeScript   38 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 % 
+Markdown     15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Git Config   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 <!--END_SECTION:waka-->
 
