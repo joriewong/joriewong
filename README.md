@@ -29,8 +29,3 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-## Commits
-
-<!-- START gadpp -->
-- joriewong/waka-box, [refs/heads/master@e3ca3dcff7c9bff143edbf78ec61c87aaafce509](https://github.com/joriewong/waka-box/commit/e3ca3dcff7c9bff143edbf78ec61c87aaafce509)
