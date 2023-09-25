@@ -25,7 +25,13 @@
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
+
+```txt
+Vue.js         10 hrs 55 mins  ████████████████████████▒   96.67 %
+JavaScript     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Other          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
+
 <!--END_SECTION:waka-->
