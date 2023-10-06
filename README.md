@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 8 mins    ████████████████████▓░░░░   82.82 %
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-TOML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
