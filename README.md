@@ -27,8 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          █████████████░░░░░░░░░░░░   51.55 %
-Nginx        0 secs          ████████████░░░░░░░░░░░░░   48.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
