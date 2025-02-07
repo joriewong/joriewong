@@ -1,4 +1,4 @@
-## Hi there <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24" /> ![joriewong's badge](https://visitor-badge.glitch.me/badge?page_id=joriewong.joriewong)
+## Hi there <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24" /> [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/joriewong-adc-contributor.json)](https://github.com/ant-design/ant-design-charts) ![joriewong's badge](https://visitor-badge.glitch.me/badge?page_id=joriewong.joriewong) 
 
 <img src="https://github.com/joriewong/joriewong/blob/master/4c0a922709298955d492e46cb7e27286.gif" alt="Avatar" width="100%"/>
 
