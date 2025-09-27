@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   2 mins          █████████████████████████   100.00 %
+Vue.js   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
