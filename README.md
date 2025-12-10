@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx        44 mins         ████████████▓░░░░░░░░░░░░   50.28 %
-JSON         17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Vue.js       12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Markdown     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
